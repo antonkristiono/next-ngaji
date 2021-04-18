@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import MainLayout from '../components/HomeLayout'
 import Hero1 from '../components/Hero1'
